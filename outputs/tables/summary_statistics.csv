@@ -1,0 +1,6 @@
+Ticker,Start Price ($),End Price ($),Total Return (%),Average Daily Return (%),Annualized Volatility (%),Maximum Drawdown (%)
+AAPL,128.51,268.23,108.73,0.07,27.47,-33.36
+MSFT,246.77,427.45,73.22,0.06,26.28,-37.15
+NVDA,14.81,200.32,1252.33,0.26,51.55,-66.34
+GOOGL,111.7,335.2,200.08,0.11,30.92,-44.32
+AMZN,165.45,251.05,51.74,0.06,35.43,-56.15
