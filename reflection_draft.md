@@ -44,9 +44,9 @@ AI-assisted support was used during this project for code structuring, debugging
 
 My own role was to decide the project topic, review the outputs, run the code locally, check whether the results made sense, and choose what should finally be included in the repository. I also reviewed the written content and adjusted it to fit the assignment.
 
-Before final submission, I should complete the details below so the disclosure is accurate:
+The main period of AI use for this project was April 2026 during the planning, coding, debugging, and writing stages.
 
-- **Date(s) of AI use:** [add date]
-- **Tool/model used:** [add tool or model name]
-- **How AI was used:** [brief summary]
-- **What I personally checked or changed:** [brief summary]
+- **Date(s) of AI use:** April 2026
+- **Tool/model used:** OpenAI Codex / ChatGPT-style AI coding and writing assistance
+- **How AI was used:** AI was used to help structure the project, improve the Python workflow, troubleshoot data download issues, draft parts of the README and reflection, and organise the notebook and repository files.
+- **What I personally checked or changed:** I personally chose the project topic, ran the code locally, checked whether the downloaded data and outputs were reasonable, reviewed the figures and tables, and decided what should be kept, edited, or uploaded for the final submission.
